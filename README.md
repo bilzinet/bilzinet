@@ -1,4 +1,4 @@
-- Greetings! I’m Bilal
+Greetings! I’m Bilal
 - Ph.D. in Transportation Planning and Engineering, NYU Tandon School of Engineering. 
 - Interested in Deep Learning and Physics Informed Machine Learning, Generative AI.
 - Domain expertise: Traffic Flow, Transportation Systems and Optimization.
